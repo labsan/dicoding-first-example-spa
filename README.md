@@ -1,4 +1,4 @@
-# dicoding-first-example-spa
+# dicoding-first-spa
 Jika ingin mengetahui hasil dari kode diatas, download terlebih dahulu kode tersebut, kemudian jalankan menggunakan local web server yang kalian gunakan.
 Local web server yang saya gunakan untuk menjalankan kode program diatas adalah "Web Server for Chrome" yang merupakan ekstensi dari browser Google Chrome.
 "Web Server for Chrome" mudah sekali digunakan, berikut langkah-langkahnya:
